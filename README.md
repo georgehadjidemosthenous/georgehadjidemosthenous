@@ -1,4 +1,4 @@
-- Hi, I’m georgehadjidemosthenous
+- Hi, I’m George Hadjidemosthenous
 - I'm an engineering student @ ntua
 - I’m interested in engineering software and optimization 
   
