@@ -1,5 +1,5 @@
 - Hi, I’m George Hadjidemosthenous
-- I'm an engineering student @ ntua
+- I'm an engineering student @ columbia & ntua
 - I’m interested in engineering software and optimization 
   
 
